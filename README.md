@@ -15,4 +15,6 @@
         os.environ["PATH"] += os.pathsep + os.path.dirname(FFMPEG_BIN)
         
 4.运行即可，需要剪断的语句音频全部存入代码文件位置下的output文件夹
+<img width="799" height="202" alt="1" src="https://github.com/user-attachments/assets/e0edc310-102c-4894-a454-215929562d0e" />
+<img width="844" height="508" alt="2" src="https://github.com/user-attachments/assets/713623a7-2dfe-4bf8-ab95-192a0c189e50" />
 
